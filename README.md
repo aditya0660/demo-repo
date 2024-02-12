@@ -1,6 +1,6 @@
 Codeowner Instructions:-
 
-1) go to settings ---> branches ---> add bracnch protection ---> specify your branch ---> select checkboxes 1. require a pull before merging 2. require approvals
+1) go to settings --> branches --> add bracnch protection --> specify your branch --> select checkboxes 1. require a pull before merging 2. require approvals
 
 2) Make CODEOWNER file
    specify the reviewer in the file eg. (* @aditya0660) to review everything before commit.
